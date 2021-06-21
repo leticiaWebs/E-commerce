@@ -8,3 +8,5 @@ O intuito do projeto foi recriar uma pagina que simulasse um ambiente de compras
 
 
 ![](https://github.com/leticiaWebs/E-commerce/blob/master/print%202.png)
+![](https://github.com/leticiaWebs/E-commerce/blob/master/print.png)
+![](https://github.com/leticiaWebs/E-commerce/blob/master/loja.gif)
