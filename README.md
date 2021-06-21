@@ -7,4 +7,4 @@
 O intuito do projeto foi recriar uma pagina que simulasse um ambiente de compras online. 
 
 
-![](https://gph.is/g/Zn8bXG5)
+![](https://github.com/leticiaWebs/E-commerce/blob/master/print%202.png)
